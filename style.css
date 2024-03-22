@@ -1,0 +1,35 @@
+.nav-link:hover {
+    background-color: #643a79;
+}
+
+/* .col img {
+            width: 40px;
+            height: 55px;
+        } */
+
+.second-area {
+    font-size: 10px;
+}
+
+.social-logo li i {
+    font-size: 25px;
+    color: black;
+
+}
+
+.social-logo li:hover i {
+    color: rgb(26, 211, 20);
+}
+
+.nav-items:hover a {
+    background-color: #643a79;
+}
+
+.nav-item:hover a {
+    background-color: white;
+}
+
+
+@media (max-width:1100px) {
+    .navber {}
+}
